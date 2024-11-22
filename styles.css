@@ -172,6 +172,7 @@ footer {
 }
 
 footer p {
+    line-height: 150%;
     font-size: 12px;
     color: white;
     min-width: 300px;
