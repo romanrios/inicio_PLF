@@ -177,7 +177,15 @@ footer p {
     min-width: 300px;
 }
 
+@media (min-width:811px){
+    .main_container{
+        gap:25px
+    }
+
+}
+
 @media (max-width: 810px){
+
     .main_card_img{
         height: 170px;
     }
